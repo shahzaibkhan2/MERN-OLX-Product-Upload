@@ -7,7 +7,6 @@ import Navbar from "./components/navbar/Navbar";
 import FeedArea from "./components/feed/FeedArea";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Feed from "./components/feed/Feed";
 
 const App = () => {
   const { showLogin, isLoggedIn } = useContext(MainContext);

@@ -2,7 +2,6 @@ import { Route, Routes } from "react-router-dom";
 import FeedArea from "../../components/feed/FeedArea";
 import AddProduct from "../AddProduct";
 import PostProduct from "../../components/feed/PostProduct";
-import Feed from "../../components/feed/Feed";
 
 const Home = () => {
   return (
